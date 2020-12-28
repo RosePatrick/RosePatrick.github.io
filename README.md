@@ -1,4 +1,4 @@
-## RosePatrick.github.io
+## RosePatrick
 
 ### Data Science and Machine Learning Projects
 
