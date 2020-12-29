@@ -13,6 +13,7 @@ Small projects I completed during the completion of my certificate program in Ma
 
 #### Data Collection
 [Data Collection from Quandl](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Data%20Collection)
+[nbviewer](https://nbviewer.jupyter.org/github/RosePatrick/SpringboardRP/blob/master/Mini-Project%20-%20Data%20Collection/api_data_wrangling_mini_project.ipynb)
 
 #### Data Wrangling (Pandas and Spark)
 [Data Wrangling with Pandas](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Data%20Wrangling)
