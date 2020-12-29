@@ -1,5 +1,6 @@
-## Rose-Marie Patrick
 ## Data Science and Machine Learning Portfolio
+## by Rose-Marie Patrick
+
 This page highlights my collection of Data Science and Machine Learning Projects that I have done to learn/practice different techniques in the field. Click the links under each heading to see the code repositories for each project.
 
 ### Distracted Driver Detection
