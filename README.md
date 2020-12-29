@@ -6,3 +6,4 @@ This page highlights my collection of Data Science and Machine Learning Projects
 
 ### Distracted Driver Detection
 The aim of this project is given the dataset of driver images, each taken in a car with a driver doing something in the car (texting, eating, talking on the phone, makeup, reaching behind, etc), predict the likelihood of what the driver is doing in each picture. The data set was taken from the Kaggle - State Farm Distracted Driver.
+https://github.com/RosePatrick/Distracted-Driver-Detection
