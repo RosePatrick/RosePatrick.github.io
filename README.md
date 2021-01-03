@@ -36,15 +36,21 @@ This mini-project focuses on linear regression. The Boston Housing data set cont
 [nbviewer](https://nbviewer.jupyter.org/github/RosePatrick/SpringboardRP/blob/master/Mini-Project%20-%20Linear%20Regression/Mini_Project_Linear_Regression.ipynb)  
 
 #### Logistic Regression
-[Logistic Regression](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Logistic%20Regression)
+Logistic regression modelling with a dataset of heights and weights of males and females.
+[Logistic Regression](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Logistic%20Regression)  
+[nbviewer](https://nbviewer.jupyter.org/github/RosePatrick/SpringboardRP/blob/master/Mini-Project%20-%20Logistic%20Regression/Mini_Project_Logistic_Regression.ipynb)  
 
 #### Tree Algorithms
 [Tree Algorithms](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Tree%20Based%20Algorithms)
+[nbviewer](https://nbviewer.jupyter.org/github/RosePatrick/SpringboardRP/blob/master/Mini-Project%20-%20Tree%20Based%20Algorithms/Mini_Project_Tree-Based_Algorithms.ipynb)  
 
 #### Clustering
 [Clustering](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Clustering)
+[nbviewer](https://nbviewer.jupyter.org/github/RosePatrick/SpringboardRP/blob/master/Mini-Project%20-%20Clustering/Mini_Project_Clustering.ipynb)  
 
 ### Spark SQL and ML
 [SQL at Scale with Spark](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20SQL%20at%20Scale%20with%20Spark)
+[nbviewer](https://nbviewer.jupyter.org/github/RosePatrick/SpringboardRP/blob/master/Mini-Project%20-%20SQL%20at%20Scale%20with%20Spark/Mini_Project_SQL_with_Spark.ipynb)  
 
 [Spark ML](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Spark%20ML)
+[nbviewer](https://nbviewer.jupyter.org/github/RosePatrick/SpringboardRP/blob/master/Mini-Project%20-%20Spark%20ML/Spark%20ML%20Mini-Project.ipynb)  
