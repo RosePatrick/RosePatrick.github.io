@@ -1,29 +1,35 @@
-## Data Science and Machine Learning Portfolio
+# Data Science and Machine Learning Portfolio
 ## by Rose-Marie Patrick
 
 This page highlights my collection of Data Science and Machine Learning Projects that I have done to learn/practice different techniques in the field. Click the links under each heading to see the code repositories for each project.
 
-### Distracted Driver Detection
+## Distracted Driver Detection
 The aim of this project is given the dataset of driver images, each taken in a car with a driver doing something in the car (texting, eating, talking on the phone, makeup, reaching behind, etc), predict the likelihood of what the driver is doing in each picture. The data set was taken from the Kaggle - State Farm Distracted Driver.
 
 [Distracted Driver Detection Repository](https://github.com/RosePatrick/Distracted-Driver-Detection)
 
-### Mini-Projects
+## Mini-Projects
 Small projects I completed during the completion of my certificate program in Machine Learning Engineering. These projects are in Jupyter Notebooks.
 
-#### Data Collection
-This mini project focuses on equities data from the Frankfurt Stock Exhange (FSE), which is available for free. Some analysis was completed on the stock prices of Carl Zeiss Meditec, which manufactures tools for eye examinations, as well as medical lasers for laser eye surgery: https://www.zeiss.com/meditec/int/home.html. The company is listed under the stock ticker AFX_X.
-[Data Collection Github](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Data%20Collection)  
+### Data Collection
+This mini project focuses on equities data from the Frankfurt Stock Exhange (FSE), which is available on Quandl. Data collection and analysis was completed on the stock prices of Carl Zeiss Meditec, which manufactures tools for eye examinations, as well as medical lasers for laser eye surgery: https://www.zeiss.com/meditec/int/home.html. The company is listed under the stock ticker AFX_X. This project also explores the use of Python libraries *requests* and *json*.
+[Data Collection - Github](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Data%20Collection)  
 [nbviewer](https://nbviewer.jupyter.org/github/RosePatrick/SpringboardRP/blob/master/Mini-Project%20-%20Data%20Collection/api_data_wrangling_mini_project.ipynb)
 
-#### Data Wrangling (Pandas and Spark)
-[Data Wrangling with Pandas](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Data%20Wrangling)
+### Data Wrangling (Pandas and Spark)
+Data wrangling and transformation using Pandas and an IMDB dataset.  
+[Data Wrangling with Pandas](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Data%20Wrangling)  
+[nbviewer](https://nbviewer.jupyter.org/github/RosePatrick/SpringboardRP/blob/master/Mini-Project%20-%20Data%20Wrangling/Mini_Project_Data_Wrangling_Pandas.ipynb)
 
-[Data Wrangling with Spark](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Data%20Wrangling%20with%20Spark)
+Using Apache Spark for web server log analytics using real-world production logs from NASA.  
+[Data Wrangling with Spark](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Data%20Wrangling%20with%20Spark)  
+[nbviewer](https://nbviewer.jupyter.org/github/RosePatrick/SpringboardRP/blob/master/Mini-Project%20-%20Data%20Wrangling%20with%20Spark/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb)  
 
-[Data Wrangling - JSON](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Wrangling%20JSON)
+A short exercise to become more familiar with the JSON format and data wrangling.  
+[Data Wrangling - JSON](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Wrangling%20JSON)  
+[nbviewer](https://nbviewer.jupyter.org/github/RosePatrick/SpringboardRP/blob/master/Mini-Project%20-%20Wrangling%20JSON/Mini_Project_Wrangling_Json_Exercise.ipynb)  
 
-#### Machine Learning Algorithms
+### Machine Learning Algorithms
 [Linear Regression](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Linear%20Regression)
 
 [Logistic Regression](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Logistic%20Regression)
@@ -32,7 +38,7 @@ This mini project focuses on equities data from the Frankfurt Stock Exhange (FSE
 
 [Clustering](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Clustering)
 
-#### Spark SQL and ML
+### Spark SQL and ML
 [SQL at Scale with Spark](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20SQL%20at%20Scale%20with%20Spark)
 
 [Spark ML](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Spark%20ML)
