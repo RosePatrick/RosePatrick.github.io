@@ -12,7 +12,8 @@ The aim of this project is given the dataset of driver images, each taken in a c
 Small projects I completed during the completion of my certificate program in Machine Learning Engineering. These projects are in Jupyter Notebooks.
 
 #### Data Collection
-[Data Collection from Quandl](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Data%20Collection)  
+This mini project focuses on equities data from the Frankfurt Stock Exhange (FSE), which is available for free. Some analysis was completed on the stock prices of Carl Zeiss Meditec, which manufactures tools for eye examinations, as well as medical lasers for laser eye surgery: https://www.zeiss.com/meditec/int/home.html. The company is listed under the stock ticker AFX_X.
+[Data Collection Github](https://github.com/RosePatrick/SpringboardRP/tree/master/Mini-Project%20-%20Data%20Collection)  
 [nbviewer](https://nbviewer.jupyter.org/github/RosePatrick/SpringboardRP/blob/master/Mini-Project%20-%20Data%20Collection/api_data_wrangling_mini_project.ipynb)
 
 #### Data Wrangling (Pandas and Spark)
